@@ -1,2 +1,2 @@
-# Food_restaurant_project
+# Food-restaurant-project
 hover img and seen magic'.
